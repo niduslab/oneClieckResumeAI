@@ -1,0 +1,22 @@
+{
+  "sender": {
+    "name": "Md Jabed Hosen",
+    "address": "1341, Gazirchat, Dhaka, Bangladesh",
+    "email": "jabedhosen.cse@gmail.com",
+    "phone": "(+880)-1706276447"
+  },
+  "recipient": {
+    "name": "Hiring Manager",
+    "title": "",
+    "organization": "your company",
+    "address": ""
+  },
+  "date": "July 30, 2025",
+  "subject": "Application for Position",
+  "body": "Md Jabed Hosen\njabedhosen.cse@gmail.com\n(+880)-1706276447\n\nJuly 30, 2025\n\nHiring Manager\nOptimizely\nDhaka, BD, 1212 BD\n\nSubject: Application for Software Engineer I Position\n\nDear Hiring Manager,\n\nI am writing to express my strong interest in the Software Engineer I position at Optimizely as advertised. With a Bachelor's degree in Computer Science and Engineering from Daffodil International University and hands-on experience in machine learning and natural language processing, I am excited about the opportunity to contribute to your innovative team.\n\nMy experience as an ML Researcher at DIU Health Informatics Research Lab and as an ML Engineer at AtherZen IT Ltd has equipped me with the technical expertise and problem-solving skills required for this role. I have developed models for medical image denoising and cloud properties retrieval, showcasing my ability to deliver high-quality solutions within specified timelines.\n\nOne of my notable projects includes developing a BERT-BiGRU model for language identification, highlighting my proficiency in utilizing advanced technologies to solve complex problems. Additionally, my project on creating a multi-persona AI chatbot demonstrates my expertise in AI and application development.\n\nI am particularly impressed by Optimizely's commitment to fostering a diverse and inclusive workplace and the emphasis on continuous growth and learning. I am eager to contribute to your team, learn Optimizely's products, and further develop my software engineering skills.\n\nI am enthusiastic about the opportunity to discuss how my background, technical skills, and achievements align with the requirements of the Software Engineer I role. I am available for a call or meeting at your convenience. Thank you for considering my application.\n\nSincerely,\n\nMd Jabed Hosen\njabedhosen.cse@gmail.com\n(+880)-1706276447",
+  "metadata": {
+    "generated_at": "2025-07-30T16:19:12.859666",
+    "position_applied": "Position",
+    "organization": "your company"
+  }
+}

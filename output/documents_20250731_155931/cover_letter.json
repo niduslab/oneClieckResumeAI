@@ -1,0 +1,22 @@
+{
+  "sender": {
+    "name": "Md Jabed Hosen",
+    "address": "1341, Gazirchat, Dhaka, Bangladesh",
+    "email": "jabedhosen.cse@gmail.com",
+    "phone": "(+880)-1706276447"
+  },
+  "recipient": {
+    "name": "Hiring Manager",
+    "title": "",
+    "organization": "the Company",
+    "address": ""
+  },
+  "date": "July 31, 2025",
+  "subject": "Application for Senior AI/ML Engineer",
+  "body": [],
+  "metadata": {
+    "generated_at": "2025-07-31T15:59:49.966188",
+    "position_applied": "Senior AI/ML Engineer",
+    "organization": "the Company"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sender": {
+    "name": "Md Jabed Hosen",
+    "address": "1341, Gazirchat, Dhaka, Bangladesh",
+    "email": "jabedhosen.cse@gmail.com",
+    "phone": "(+880)-1706276447"
+  },
+  "recipient": {
+    "name": "Hiring Manager",
+    "title": "",
+    "organization": "example com",
+    "address": ""
+  },
+  "date": "July 31, 2025",
+  "subject": "Application for Talented and passionate Software AI Engineer",
+  "body": [],
+  "metadata": {
+    "generated_at": "2025-07-31T10:53:23.135077",
+    "position_applied": "Talented and passionate Software AI Engineer",
+    "organization": "example com"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "full_name": "Md Jabed Hosen",
+  "email": "jabedhosen.cse@gmail.com",
+  "phone": "(+880)-1706276447",
+  "address": "1341, Gazirchat, Dhaka, Bangladesh",
+  "linkedin": null,
+  "github": null,
+  "portfolio": null,
+  "summary": null,
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Science and Engineering",
+      "institution": "Daffodil International University (DIU), Dhaka, Bangladesh",
+      "start_date": "SEPTEMBER 2024",
+      "end_date": null,
+      "grade_or_gpa": "3.37/4.00"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Machine Learning Specialization",
+      "issuer": "Stanford University & DeepLearning.AI (Coursera)",
+      "issue_date": null,
+      "expiration_date": null
+    },
+    {
+      "name": "Foundations of Data, Data, Everywhere",
+      "issuer": "Google (Coursera)",
+      "issue_date": null,
+      "expiration_date": null
+    },
+    {
+      "name": "Microsoft AI Skills Challenge",
+      "issuer": null,
+      "issue_date": null,
+      "expiration_date": null
+    }
+  ],
+  "employment": [
+    {
+      "company": "DIU Health Informatics Research Laboratory, Dhaka, BD",
+      "position": "ML Researcher",
+      "start_date": "MAY 2023",
+      "end_date": "JUN 2024",
+      "responsibilities": "Developed meta-learning framework for medical image denoising using self-supervised learning."
+    },
+    {
+      "company": "DIU NLP Research Laboratory, Dhaka, BD",
+      "position": "Researcher",
+      "start_date": "JULY 2024",
+      "end_date": "DEC 2024",
+      "responsibilities": "Investigated NLP solutions for low-resource language processing and explainable AI."
+    },
+    {
+      "company": "AtherZen IT Ltd, Dhaka, BD",
+      "position": "ML Engineer",
+      "start_date": "JAN 2024",
+      "end_date": "PRESENT",
+      "responsibilities": "Designed an attention-based model and training objective for retrieving multiple cloud properties."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Transliteration-Based Language Identification",
+      "description": "Developed a BERT-BiGRU model to classify Bangla, Hindi, Tamil, and English in transliterated text.",
+      "technologies_used": null,
+      "link": "Github"
+    },
+    {
+      "title": "Multi-Persona (LLMs) AI Chatbot with Google Gemini 1.5",
+      "description": "Developed an AI chatbot with three unique personas: Viper, Seraphina, and Elysia conversational styles.",
+      "technologies_used": null,
+      "link": "Github"
+    }
+  ],
+  "technical_skills": [
+    "Python",
+    "C",
+    "C++",
+    "Arduino",
+    "PHP",
+    "MySQL",
+    "PyTorch",
+    "TensorFlow",
+    "HuggingFace Transformers",
+    "LangChain",
+    "Scikit-learn",
+    "NumPy",
+    "Pandas",
+    "Matplotlib",
+    "OpenCV",
+    "SDLC",
+    "Git",
+    "API Integration"
+  ],
+  "soft_skills": [
+    "Leadership",
+    "Team Management",
+    "Event Planning",
+    "Business & Market Analysis"
+  ],
+  "languages": [
+    {
+      "language": "Bangla",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "TOEFL iBT 98"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Deep Chest GNN: A Framework for Improved Lung Disease Detection Using Advanced Graphical Deep Features",
+      "publication": "MDPI Sensors",
+      "date": "24, no. 9 (2024)"
+    },
+    {
+      "title": "An Efficient Framework for Transliteration Sentence Identification of Low Resource Languages Using Hybrid BERT-BiGRU",
+      "publication": "15th (ICCCNT), Kamand, India, 2024",
+      "date": "pp. 1-8"
+    },
+    {
+      "title": "Sentiment Analysis of Israel-Palestine Conflict Comments Using Sentiment Intensity Analyzer and TextBlob",
+      "publication": "15th ICCCNT 2024, Kamand, India",
+      "date": "pp. 1-7"
+    },
+    {
+      "title": "NewsNet: A Comprehensive Neural Network Hybrid Model for Efficient Bangla News Categorization",
+      "publication": "15th ICCCNT 2024, Kamand, India",
+      "date": "pp. 1-7"
+    }
+  ],
+  "awards": [
+    "Winner, RoboTech Olympiad 2023 – Mawlana Bhashani Science and Technology University",
+    "Top 50 Participant, NASA Space Apps Challenge 2023 (National Round) – NASA",
+    "Best Volunteer Award, 4th International RoboTech Olympiad 2024 – Daffodil International University"
+  ],
+  "interests": null,
+  "references": [
+    {
+      "name": "Dr. Md Zahid Hasan",
+      "position": "Associate Professor, Program Director MIS, Department of Computer Science and Engineering",
+      "contact_info": "Email: zahid.cse@diu.edu.bd, Phone: +8801672580748"
+    }
+  ]
+}
